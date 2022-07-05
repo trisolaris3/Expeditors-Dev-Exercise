@@ -4,7 +4,8 @@ to run (in terminal, from project directory):
 
 input is given as a .txt file, output is displayed in the terminal
 
-assumptions made and notes about problem solving:: 
+assumptions made and notes about problem solving:
+
 "where the occupant(s) is older than 18" is interpreted as all the occupants aged at least 18, because this makes sense in a real world scenario
 address formatting errors are to be fixed, ex. "123 Main St., Seattle, WA" should be treated as the same address as "123 main st, seattle, Wa"
     however apparent address content errors are not fixed as they should require further user interaction in a realworld scenario, so
